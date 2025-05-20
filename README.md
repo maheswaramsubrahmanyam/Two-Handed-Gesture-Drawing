@@ -87,7 +87,7 @@ Drag shapes (hover & move)
 Undo: Raise left index and middle finger
 ---
 🧑‍💻 Author
-Maheswaram Subrahmanyam
+Maheswaram Subrahmanyam<br>
 GitHub: https://github.com/maheswaramsubrahmanyam
 
 ---
