@@ -10,6 +10,9 @@ No keyboard or mouse needed — just use your hands!
 ---
 
 ###DEMO
+![thumbnail](https://github.com/user-attachments/assets/cc7dd2b6-13f7-43d4-bc5d-6c619df0d30b)
+
+https://youtu.be/SbddlQf9ihQ?si=KQQW02A_KmlX80pV
 
 
 ---
