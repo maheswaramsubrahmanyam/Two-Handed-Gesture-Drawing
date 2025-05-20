@@ -9,6 +9,9 @@ No keyboard or mouse needed — just use your hands!
 
 ---
 
+###DEMO
+---
+
 ## 🧠 Features
 
 | Feature                  | Description                                                             |
@@ -56,6 +59,7 @@ pip install opencv-python mediapipe numpy
  Usage
 Start the app: ```python Draw.py```
 ---
+
 Use left hand index finger to click:
 
 🖊️ Pen
