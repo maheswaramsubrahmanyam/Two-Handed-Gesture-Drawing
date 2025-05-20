@@ -87,14 +87,3 @@ GitHub: https://github.com/maheswaramsubrahmanyam
 ---
 📄 License
 This project is licensed under the MIT License.
-
-
----
-
-### ✅ Optional:
-
-- If you want a `requirements.txt`, let me know — I can generate it.
-- Replace `@your-username` with your GitHub username in the links.
-
-Let me know if you want to include a **GIF preview**, a **project logo**, or want help setting up the GitHub repo structure!
- 
