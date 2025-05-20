@@ -55,7 +55,7 @@ pip install opencv-python mediapipe numpy
 
  Usage
 Start the app: ```python Draw.py```
-
+---
 Use left hand index finger to click:
 
 🖊️ Pen
@@ -69,7 +69,7 @@ Use left hand index finger to click:
 💾 Save
 
 🎨 Colors
-
+---
 Use right hand to:
 
 Draw (index finger down)
@@ -79,12 +79,12 @@ Adjust brush size (pinch thumb/index)
 Drag shapes (hover & move)
 
 Undo: Raise left index and middle finger
-
+---
 🧑‍💻 Author
 Maheswaram Subrahmanyam
 GitHub: https://github.com/maheswaramsubrahmanyam
 
-
+---
 📄 License
 This project is licensed under the MIT License.
 
