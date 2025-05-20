@@ -24,9 +24,9 @@ No keyboard or mouse needed — just use your hands!
 
 ## 📂 Folder Structure
 
-HandGestureDrawingApp/
-├── Draw.py # Main application script
-├── README.md # This file
+HandGestureDrawingApp/<br>
+├── Draw.py # Main application script<br>
+├── README.md # This file<br>
 
 yaml
 
@@ -41,16 +41,20 @@ git clone https://github.com/your-username/HandGestureDrawingApp.git
 cd HandGestureDrawingApp
 pip install -r requirements.txt
 python Draw.py
+```
 ✅ Requirements
+```
 opencv-python
 mediapipe
 numpy
-
+```
 Install dependencies with:
+```
 pip install opencv-python mediapipe numpy
+```
 
  Usage
-Start the app: python Draw.py
+Start the app: ```python Draw.py```
 
 Use left hand index finger to click:
 
